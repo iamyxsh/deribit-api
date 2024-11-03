@@ -1,0 +1,29 @@
+Start testing: Nov 02 19:01 IST
+----------------------------------------------------------
+1/1 Testing: DerbitAPITest
+1/1 Test: DerbitAPITest
+Command: "/Users/iamyxsh/Personal/test-cpp/build/test/test_main"
+Directory: /Users/iamyxsh/Personal/test-cpp/build/test
+"DerbitAPITest" start time: Nov 02 19:01 IST
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DerbitAPITest
+[ RUN      ] DerbitAPITest.GetOrderbook
+[       OK ] DerbitAPITest.GetOrderbook (1014 ms)
+[----------] 1 test from DerbitAPITest (1014 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1014 ms total)
+[  PASSED  ] 1 test.
+TradingClient Destructor
+<end of output>
+Test time =   2.32 sec
+----------------------------------------------------------
+Test Passed.
+"DerbitAPITest" end time: Nov 02 19:01 IST
+"DerbitAPITest" time elapsed: 00:00:02
+----------------------------------------------------------
+
+End testing: Nov 02 19:01 IST
